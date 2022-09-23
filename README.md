@@ -6,8 +6,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shemtomke&label=Profile%20views&color=0e75b6&style=flat" alt="shemtomke" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shemtomke" alt="shemtomke" /></a> </p>
-
 <p align="center"> <a href="https://twitter.com/shemtom_games" target="blank"><img src="https://img.shields.io/twitter/follow/shemtom_games?logo=twitter&style=for-the-badge" alt="shemtom_games" /></a> </p>
 
 - 💬 Ask me about **Games**
