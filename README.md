@@ -2,7 +2,8 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>-->
 <h1 align="center">Hi 👋, I'm Shem Tom</h1>
-<h3 align="center">A passionate Game Developer from Kenya</h3>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=00B116&center=true&vCenter=true&width=600&lines=Full-stack+development;Game+Developer)](https://git.io/typing-svg)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shemtomke&label=Profile%20views&color=0e75b6&style=flat" alt="shemtomke" /> </p>
 
