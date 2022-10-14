@@ -17,6 +17,7 @@
 <p align="center">
 <a href="https://twitter.com/shemtom_games" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shemtom_games" height="30" width="40" /></a>
 <a href="https://instagram.com/shemtom_games" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shemtom_games" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shem-tom-04695a19a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shem tom" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
