@@ -1,7 +1,7 @@
 <!--<div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>-->
-<h1 align="center">Hi 👋, I'm Shem Tom</h1>
+<h1 align="center">Jambo 👋, I'm Shem Tom</h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=DC143C&center=true&vCenter=true&width=800&lines=Game+Developer)](https://git.io/typing-svg)
 
