@@ -3,7 +3,7 @@
 </div>-->
 <h1 align="center">Jambo 👋, I'm Shem Tom</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=DC143C&center=true&vCenter=true&width=800&lines=Game+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=DC143C&center=true&vCenter=true&width=800&lines=Game+/+Mobile+App+Developer)](https://git.io/typing-svg)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shemtomke&label=Profile%20views&color=0e75b6&style=flat" alt="shemtomke" /> </p>
 
